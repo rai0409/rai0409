@@ -1,3 +1,5 @@
+# Rai Ichinosawa
+
 Python Automation & Backend Engineer for document processing, internal tools, and AI workflows.
 
 I build practical systems for operations-heavy teams: workflow automation, document extraction pipelines, and internal tools with reliable APIs and reviewable logic.
